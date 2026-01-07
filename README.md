@@ -3,7 +3,7 @@
 <p align="center">
   <b>Email:</b> <a href="mailto:hswagh@shockers.wichita.edu">hswagh@shockers.wichita.edu</a> | 
   <b>Mobile:</b> +1 316-293-8330 | 
-  <b>LinkedIn:</b> <a href="https://linkedin.com/in/harshalwagh20">linkedin.com/in/harshal-wagh-20</a> | 
+  <b>LinkedIn:</b> <a href="https://linkedin.com/in/harshalwagh20">linkedin.com/in/harshal-wagh-20/</a> | 
   <b>Location:</b> Wichita, USA
 </p>
 
